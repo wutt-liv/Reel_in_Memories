@@ -1,0 +1,73 @@
+{ "frames": {
+   "glittering01 0.png": {
+    "frame": { "x": 0, "y": 0, "w": 349, "h": 347 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 349, "h": 347 },
+    "sourceSize": { "w": 349, "h": 347 },
+    "duration": 100
+   },
+   "glittering01 1.png": {
+    "frame": { "x": 349, "y": 0, "w": 349, "h": 347 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 349, "h": 347 },
+    "sourceSize": { "w": 349, "h": 347 },
+    "duration": 100
+   },
+   "glittering01 2.png": {
+    "frame": { "x": 698, "y": 0, "w": 349, "h": 347 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 349, "h": 347 },
+    "sourceSize": { "w": 349, "h": 347 },
+    "duration": 100
+   },
+   "glittering01 3.png": {
+    "frame": { "x": 1047, "y": 0, "w": 349, "h": 347 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 349, "h": 347 },
+    "sourceSize": { "w": 349, "h": 347 },
+    "duration": 100
+   },
+   "glittering01 4.png": {
+    "frame": { "x": 1396, "y": 0, "w": 349, "h": 347 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 349, "h": 347 },
+    "sourceSize": { "w": 349, "h": 347 },
+    "duration": 100
+   },
+   "glittering01 5.png": {
+    "frame": { "x": 1745, "y": 0, "w": 349, "h": 347 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 349, "h": 347 },
+    "sourceSize": { "w": 349, "h": 347 },
+    "duration": 100
+   },
+   "glittering01 6.png": {
+    "frame": { "x": 2094, "y": 0, "w": 349, "h": 347 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 349, "h": 347 },
+    "sourceSize": { "w": 349, "h": 347 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.15.5-x64",
+  "format": "RGBA8888",
+  "size": { "w": 2443, "h": 347 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
