@@ -1,0 +1,41 @@
+Name : Solitude - dark ambient music
+Artist : Clavier-Music
+use for : intro_theme
+link : https://pixabay.com/music/ambient-solitude-dark-ambient-music-354468/
+
+Name : Entenca
+Artist : Dreamt
+use for : intro2
+Royalty Free Music: https://www.bensound.com
+License code: 5BEJZWITR7SPL47E
+Artist : Dreamt
+
+Name : Mau Presságio
+Artist : Composiia
+use for : entering_town_theme
+link : https://pixabay.com/music/ambient-mau-press%c3%a1gio-166023/
+
+Name : Trygve Larsen -Song of the Mystery -Background Music
+Artist : Nesrality
+use for : shop_radio (shop theme)
+link : https://pixabay.com/music/traditional-jazz-trygve-larsen-song-of-the-mystery-background-music-117059/
+
+Name : Dark Ambient Drone
+Artist : Liecio
+use for : lost_mind / layer3 theme
+link : https://pixabay.com/music/ambient-dark-ambient-drone-258069/
+
+Name : The Catcher of Luck
+Artist : spoot
+use for : end_scene
+link : https://pixabay.com/music/post-rock-the-catcher-of-luck-231336/
+
+Name : dark ambient music
+Arthis : Clavier-Music
+use for : layer2_theme
+link : https://pixabay.com/music/ambient-dark-ambient-music-354475/
+
+Name : Apathias (Dark Ambient sad music)
+Arthis : DeusLower
+use for : layer1_theme (and shore theme)
+link : https://pixabay.com/music/ambient-apathias-dark-ambient-sad-music-277034/
